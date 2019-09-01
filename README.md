@@ -5,7 +5,7 @@ Full Custom Design of 5-bit x 5-bit Multiplier Circuit
 Multiplier circuits are digitals circuits used in arithmetic operation and have vital role in microprocessors. The most common form of multiplication is the product of two unsigned binary numbers. Forming partial product and adding them, is a very common approach to multiply two numbers and can be achieved by unsigned array multiplication techniques.
 Apart from this, there are many architectures used to implement multiplications to reduce the time complexity of the circuit.
 In this project, I selected Wallace tree topology to implement 5-bit x 5-bit multiplier circuit. The design was executed on Custom Methodology. First the schematic was generated and then the layout was completed on Layout XL suite. Half adder, Full Adder and 2x1AND standard cells were used in this design and the goal to route the long and irregular wire connect the Carry Save Adder circuits.
-The steps used to create tree was:
+The steps that used to create tree are following:
 1.	Partial Product results creation 
 2.	Partial Product results decrement 
 3.	Partial Product results addition 
