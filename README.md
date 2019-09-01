@@ -1,5 +1,5 @@
 # WallaceTreeMultiplier
-Full Custom Design of 5-bit x 5-bit Multiplier Circuit
+Full Custom Design of 5-bit x 5-bit Multiplier Circuit for 45nm CMOS
 
 # Overview
 Multiplier circuits are digitals circuits used in arithmetic operation and have vital role in microprocessors. The most common form of multiplication is the product of two unsigned binary numbers. Forming partial product and adding them, is a very common approach to multiply two numbers and can be achieved by unsigned array multiplication techniques.
