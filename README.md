@@ -11,7 +11,7 @@ The steps that used to create tree are following:
 3.	Partial Product results addition 
 
 # Project Description 
-1.	1.Wallace tree topology was implemented using Carry Save Adder with HA, FA & 2x1AND RVT std. cells on schematic and EDP efficient size were obtained by using logical effort and sweeping the width of transistor.
+1.   Wallace tree topology was implemented using Carry Save Adder with HA, FA & 2x1AND RVT std. cells on schematic and EDP efficient size were obtained by using logical effort and sweeping the width of transistor.
 2.	Challenge was to layout the long and irregular interconnect wire among CSAs which was successfully achieved.
 3.	During Layout, Floorplan was created with aspect ratio 1 (square boundary) and area utilization was 79.22% (~80%).
 4.	Routing results showed that 4 metals layers were used with 51.5% horizontal and 48.5% vertical nets. The total net length was     found to be 540.01 um with 162 number of routes created.
